@@ -17,6 +17,8 @@ int add(int a, int b) {
 packaged_task<int(int, int)> task(add);
 ```
 
+<!--more-->
+
 # 执行任务
 
 ```cpp

@@ -21,6 +21,8 @@ categories: proj
 - 日志系统采用同步输出方式，使用snprintf进行INFO、DEBUG、ERROR、FATAL四个等级的格式化输出...
 - 使用开发的网络库实现了EchoServer
 
+<!--more-->
+
 # 概念介绍
 
 ## Reactor模型

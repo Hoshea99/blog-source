@@ -909,3 +909,4 @@ live2d:
   scriptFrom: local
   model:
     use: live2d-widget-model-miku
+
